@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    -webkit-transition: .2s linear;
+    transition: .2s linear;
+}
+
+body {
+    background-color: #faf7f6;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+html::-webkit-scrollbar {
+    width: 1rem;
+}
+
+html::-webkit-scrollbar-track {
+    background: #eae0dc;
+}
+
+html::-webkit-scrollbar-thumb {
+    background: #b58d7e;
+}
+
+section {
+    padding: 3rem 9%;
+}
+
+::selection {
+    background-color: #e1cec7;
+    color: #31231e;
+}
+
+.heading {
+    background: #e1cec7;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    margin: 2%;
+    border-radius: 3rem;
+}
+
+.heading h3 {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    color: #5e473e;
+}
+
+.heading p {
+    font-size: 2rem;
+    color: #31231e;
+}
+
+.heading p a {
+    color: #5e473e;
+}
+
+.heading p a:hover {
+    color: #845f51;
+}
+
+.title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+    border-bottom: 0.1rem solid #5e473e;
+    padding-bottom: 1.5rem;
+}
+
+.title span {
+    font-size: 2.5rem;
+    color: #5e473e;
+}
+
+.title a {
+    font-size: 1.5rem;
+    color: #b58d7e;
+}
+
+.title a:hover {
+    transform: translateX(-3px);
+    color: #9e7464;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 1rem 3rem;
+    font-size: 1.7rem;
+    letter-spacing: 1px;
+    background: linear-gradient(135deg, #b58d7e, #845f51);
+    color: #faf7f6;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+
+.btn:hover {
+    letter-spacing: 2px;
+    background: linear-gradient(135deg, #945f51, #b58d7e);
+}
+
+/* header section start */
+
+/* header section end */
+
+
+/* navbar start */
+
+/* navbar end */
+
+
+/* shopping cart start */
+
+/* shopping cart end */
+
+
+/* login form start */
+
+/* login form end */
+
+
+/* home page start */
+
+    /* ---- banner section ---- */
+
+/* home page end */
+
+
+/* shop page start */
+
+    /* ---- categories ---- */
+
+    /* ---- product section ---- */
+
+/* shop page end */
+
+
+/* about page start */
+
+    /* ---- about section ---- */
+
+    /* ---- services section ---- */
+
+/* about page end */
+
+
+/* team page start */
+
+/* team page end */
+
+
+/* blog page start */
+
+/* blog page end */
+
+
+/* contact page start */
+
+/* contact page end */
+
+
+/* footer start */
+
+/* footer end */
+
+
+/* responsive start */
+
+/* responsive end */

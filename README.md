@@ -2,7 +2,7 @@
 This is a multipage furniture website built using HTML, CSS, and JavaScript. It features a clean and modern design, with multiple pages to showcase different types of furniture.
 
 ## Video Tutorial
-A full video tutorial for building this website is available on YouTube. You can watch it at - coming soon
+A full video tutorial for building this website is available on YouTube. You can watch it at - https://youtu.be/e5ymgfaEqOI
 
 ## Features
 - Responsive design for different screen sizes
@@ -33,7 +33,7 @@ This website was created by [Aarzoo](https://twitter.com/Aarzoo75).
 
 
 ## Source Code
-You can access the source code at - 
+You can access the source code at - [click here](https://rb.gy/waodu)
 
 ## Preview
 ![Furniture Website](https://user-images.githubusercontent.com/59678435/230295812-1ea040d8-31fc-4a96-a066-8daf32473375.png)
